@@ -1,0 +1,21 @@
+{
+  "params" :
+  {
+   "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codingthunder",
+    "prod_uri" : "mysql://root:@localhost/codingthunder",
+    "fb_url" : "https://facebook.com/taher.vora.1",
+    "tw_url" : "https://twitter.com/tahervora",
+    "gh_url" : "https://github.com/tahervora",
+    "blog_name": "CodingThunder",
+    "tag_line" : "Blog for Nerds",
+    "gmail-user": "vorataher21@gmail.com",
+    "gmail-password": "rightdirections",
+    "about_text": "Academic",
+    "no_of_posts": 2,
+    "admin_user": "taher",
+    "admin_password": "subscribenow",
+    "upload_location": "C:\\Users\\15623\\PycharmProjects\\flask_project\\static\\assets"
+  }
+
+}
