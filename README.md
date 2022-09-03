@@ -1,2 +1,2 @@
 # Blogging_Website-Flask-
-This is a small blogging website where you can read posts and also give your feedback. 
+This is a small portfolio website where you can read about me and my achievements and also give your feedback. 
